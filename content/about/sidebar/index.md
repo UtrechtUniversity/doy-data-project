@@ -1,4 +1,4 @@
----
+### ---
 ## Configure sidebar content in narrow column
 author: "Hugo Apéro"
 role: "A Hugo theme"
@@ -13,7 +13,7 @@ link_list:
   url: https://en.wikipedia.org/wiki/Pastry
 - name: People
   url: https://en.wikipedia.org/wiki/People
----
+### ---
 
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
