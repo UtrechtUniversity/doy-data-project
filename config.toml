@@ -127,16 +127,31 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
+    name = "Handbook"
+    title = "Handbook"
+    url = "/handbook/"
+    weight = 2
+  [[menu.header]]
+    name = "Catalog"
+    title = "Catalog"
+    url = "/catalog/"
+    weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Projects"
+    url = "/projects/"
+    weight = 4
+  [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 3
-    
+    weight = 6
+
   # Configure footer  
   [[menu.footer]]
     name = "License"
