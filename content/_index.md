@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: FAIRifying data can be a daunting task. This project was set up to help you with that!
+description: 
 image_left: false
 images:
   - static/img/home.jpeg

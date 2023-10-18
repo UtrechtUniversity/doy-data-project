@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Utrecht University"
   orgLocal = "Utrecht, The Netherlands"
-  description = "A website for the FAIR Data Project at Dynamics of Youth."
+  description = "Website for the FAIR Data Project at Dynamics of Youth."
   favicon = ""
   logo = ""
   mainSections = ["blog", "contact"]
@@ -149,7 +149,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Contact"
     title = "Contact"
-    url = "/contact/"
+    url = "/contact-us/"
     weight = 6
 
   # Configure footer  
@@ -161,7 +161,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Contact"
     title = "Contact"
-    url = "/contact/"
+    url = "/contact-us/"
     weight = 2
   [[menu.footer]]
     name = "Contributors"

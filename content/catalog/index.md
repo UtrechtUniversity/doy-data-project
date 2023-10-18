@@ -4,4 +4,14 @@ layout: standard # standard or wide-body
 show_title_as_headline: true
 ---
 
-eerwerwe
+As we make DoY data more FAIR, we want to list all the datasets in a data catalog to maximize findability. This activity consists of two components:
+
+## DoY Data Roadmap (Survey)
+
+As a short-term goal, we want to build a lightweight overview of data available within DoY. The DoY Data Roadmap can encompass studies that are not FAIRified as well.
+
+This overview begins with a brief Qualtrics survey where researchers can fill out information about their project. The studies will be presented in a standardized way in the overview, so it will be easier to explore. 
+
+## DoY Data Catalog (CKAN)
+
+As a long-term goal, we wish to build a data cataog based on CKAN which can list all of the FAIRified data based on their DOIs or repositories where they have been deposited.

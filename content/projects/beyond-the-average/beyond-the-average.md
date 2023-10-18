@@ -1,5 +1,5 @@
 ---
-title: "PROactive Cohort Study"
+title: "Beyond The Average"
 subtitle: "WKZ, UMCU"
 excerpt: "The PROactive Cohort Study aims to assess fatigue, participation, and psychosocial well-being across children with various chronic diseases over the course of their lifespan since their increased vulnerability is a fact."
 date: 2019-07-01
