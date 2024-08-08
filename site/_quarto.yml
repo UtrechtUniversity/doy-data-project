@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "DoY Data Project"
+  navbar:
+    background: "#FFCD00"
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: handbook.qmd
+        text: Handbook
+      - href: catalog.qmd
+        text: Catalog
+      - href: projects.qmd
+        text: Projects
+      - posts.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/theme-light.scss]
+      dark: [cosmo, styles/theme-dark.scss]
+    toc: true
+
+
+

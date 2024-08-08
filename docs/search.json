@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is an overview of projects, linking to specific posts about them."
+  },
+  {
+    "objectID": "posts/2024-08-08_test/index.html",
+    "href": "posts/2024-08-08_test/index.html",
+    "title": "Test",
+    "section": "",
+    "text": "fsdsdfsdf"
+  },
+  {
+    "objectID": "handbook.html",
+    "href": "handbook.html",
+    "title": "Handbook",
+    "section": "",
+    "text": "The DoY Data Handbook (in development) is a guide on FAIRifying data, tailored to the DoY community.\nIt is not meant to reinvent the wheel of existing information, but curate what is available in a brief and practical manner, as well as incorporate resources already circulating within the DoY community.\nHere’s a preview of the Handbook, located at :"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Dynamics of Youth (DoY) has the ambition to make all projects within the strategic theme as FAIR as possible, i.e. Findable, Accessible, Interoperable, and Reusable.\nThe projects and cohorts within DoY can benefit from greater visibility, so researchers can find and reuse data in order to answer a wider range of questions. Datasets could be exchanged or combined to form novel collaborations, start exciting projects, and address pressing issues.\nDespite the benefits, the process of FAIRifying youth data can seem daunting. It’s difficult to determine which data can be safely shared, with whom, and under which circumstances - particularly when there is (personal) data of minors involved.\nThe FAIR data project was set up, in collaboration with RDM Support, with the aim to support DoY researchers to make their data FAIR more easily."
+  },
+  {
+    "objectID": "about.html#supporting-doy-researchers-with-fairifying-their-data",
+    "href": "about.html#supporting-doy-researchers-with-fairifying-their-data",
+    "title": "About",
+    "section": "",
+    "text": "Dynamics of Youth (DoY) has the ambition to make all projects within the strategic theme as FAIR as possible, i.e. Findable, Accessible, Interoperable, and Reusable.\nThe projects and cohorts within DoY can benefit from greater visibility, so researchers can find and reuse data in order to answer a wider range of questions. Datasets could be exchanged or combined to form novel collaborations, start exciting projects, and address pressing issues.\nDespite the benefits, the process of FAIRifying youth data can seem daunting. It’s difficult to determine which data can be safely shared, with whom, and under which circumstances - particularly when there is (personal) data of minors involved.\nThe FAIR data project was set up, in collaboration with RDM Support, with the aim to support DoY researchers to make their data FAIR more easily."
+  },
+  {
+    "objectID": "about.html#what-do-we-do",
+    "href": "about.html#what-do-we-do",
+    "title": "About",
+    "section": "What Do We Do?",
+    "text": "What Do We Do?\nOur activities include:\n\nWorking on Projects\nProviding Consultancy\nBuilding a DoY Data Catalog\nWriting a FAIR Data Handbook\nGiving Workshops & Trainings\nOrganizing Knowledge Exchange & Community Building\n\nYou can read more about the aforementioned activities on other pages of this website."
+  },
+  {
+    "objectID": "about.html#contact-us",
+    "href": "about.html#contact-us",
+    "title": "About",
+    "section": "Contact Us",
+    "text": "Contact Us\nNeed support with FAIRifying your data? Don’t hesitate to contact us!"
+  },
+  {
+    "objectID": "catalog.html",
+    "href": "catalog.html",
+    "title": "Catalog",
+    "section": "",
+    "text": "As we make DoY data more FAIR, we want to list all the datasets in a data catalog to maximize findability. This activity consists of two components:"
+  },
+  {
+    "objectID": "catalog.html#doy-data-roadmap-survey",
+    "href": "catalog.html#doy-data-roadmap-survey",
+    "title": "Catalog",
+    "section": "DoY Data Roadmap (Survey)",
+    "text": "DoY Data Roadmap (Survey)\nAs a short-term goal, we want to build a lightweight overview of data available within DoY. The DoY Data Roadmap can encompass studies that are not FAIRified as well.\nThis overview begins with a brief Qualtrics survey where researchers can fill out information about their project. The studies will be presented in a standardized way in the overview, so it will be easier to explore.\nHere’s a preview of the roadmap, located at :"
+  },
+  {
+    "objectID": "catalog.html#doy-data-catalog-ckan",
+    "href": "catalog.html#doy-data-catalog-ckan",
+    "title": "Catalog",
+    "section": "DoY Data Catalog (CKAN)",
+    "text": "DoY Data Catalog (CKAN)\nAs a long-term goal, we wish to build a data cataog based on CKAN which can list all of the FAIRified data based on their DOIs or repositories where they have been deposited."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DoY Data Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\nNeha Moopen\n\n\nAug 8, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
